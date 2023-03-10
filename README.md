@@ -1,7 +1,7 @@
 # Ni pa' la muela
 A delicious blog where the only limit is how much food you can eat
 
-# This project wouldn't be posible without the help from: #
+# This project couldn't be posible without the help from: #
 
 -Martín Serna Diaz
 
